@@ -55,14 +55,14 @@ Projede kullanılan Flutter sürümünü görmek için:
 flutter --version
 ```
 
-Flutter sürümü: `BURAYA FLUTTER SÜRÜMÜNÜ YAZIN`
+Flutter sürümü: `Flutter 3.47.1`
 
 ## Kurulum ve Çalıştırma
 
 ### 1. Projeyi klonlayın
 
 ```bash
-git clone BURAYA_GITHUB_REPOSITORY_URL
+git clone https://github.com/bugraberatkok/mini-katalog-flutter.git
 ```
 
 ### 2. Proje klasörüne girin
